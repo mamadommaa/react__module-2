@@ -1,0 +1,39 @@
+.product__img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 20px;
+    margin-bottom: 5px;
+}
+
+.product__li {
+    border-radius: 20px;
+    width: 200px;
+    height: 280px;
+    background-color: white;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    padding: 10px;
+
+}
+
+.product__new-price {
+    color: green;
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+.product__old-price {
+    text-decoration: line-through;
+    font-size: 13px;
+
+}
+
+.product__price {
+    display: flex;
+    align-items: center;
+}
+
+.product__h2 {
+    font-size: 13px;
+}

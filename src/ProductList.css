@@ -1,0 +1,7 @@
+.product-list__ul {
+    margin: 0 auto;
+    width: 880px;
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+}
